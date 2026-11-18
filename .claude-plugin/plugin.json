@@ -1,0 +1,27 @@
+{
+  "name": "me-tri-dental-clinic",
+  "displayName": "Me Tri Dental Clinic",
+  "version": "1.0.0",
+  "description": "Official information from Me Tri Dental Clinic in Tu Liem, Hanoi: dental services, cost ranges, dentists, FAQs, patient reviews, articles, nearby areas and an appointment booking link.",
+  "author": {
+    "name": "Me Tri Dental Clinic",
+    "url": "https://nhakhoametri.vn/"
+  },
+  "homepage": "https://nhakhoametri.vn/",
+  "repository": "https://github.com/nguyenbathanh/metri-dental-clinic-claude-plugin",
+  "license": "Apache-2.0",
+  "keywords": [
+    "dental clinic",
+    "dentist",
+    "hanoi",
+    "vietnam",
+    "dental implant",
+    "braces",
+    "teeth whitening",
+    "healthcare"
+  ],
+  "icon": "./assets/icon.png",
+  "supportUrl": "https://nhakhoametri.vn/en/lien-he",
+  "privacyPolicyUrl": "https://nhakhoametri.vn/en/chinh-sach-bao-mat",
+  "termsOfServiceUrl": "https://nhakhoametri.vn/en/dieu-khoan-dieu-kien"
+}

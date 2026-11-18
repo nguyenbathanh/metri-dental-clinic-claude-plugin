@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "me-tri-dental-clinic": {
+      "type": "http",
+      "url": "https://nhakhoametri.vn/mcp"
+    }
+  }
+}
